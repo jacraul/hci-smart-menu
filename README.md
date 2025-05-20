@@ -21,5 +21,6 @@
 
 ### Project Presentation
 *Final project presentation*
-  - Demo video
-  - PowerPoint Presentation
+  - [Demo video](demohci.mp4)
+  - [PowerPoint Presentation](ppt.ppt)
+  - [FIGMA PDF version](hcifigma.pdf)
