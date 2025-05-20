@@ -18,3 +18,8 @@
 *Prototype in Figma*
   - For this task, we had to prepare our prototype in Figma
   - [Click here](https://www.figma.com/design/EHhvgjigl8HTKfOEFboKwS/HCI-Figma?node-id=1-748&t=BWlnbeBLmzquJVfc-1)
+
+### Project Presentation
+*Final project presentation*
+  - Demo video
+  - PowerPoint Presentation
